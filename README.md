@@ -9,7 +9,7 @@ Instructor Name: Miss Chandni Talpur
 
 Project: Class Activity Project
 
-# Number Guessing Game
+#  Project: Number Guessing Game
 
 ## Project Description
 
