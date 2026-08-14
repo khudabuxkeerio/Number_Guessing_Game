@@ -1,9 +1,9 @@
 <img width="200" height="170" alt="1759595002369 instasquare photoeditor effect cutout_20259421743724" src="https://github.com/user-attachments/assets/b4811932-b54d-48b8-a2ba-8a063ad52e59" />
 
-
-# Number Guessing Game
-
 Name: Khuda Bux Keerio
+
+
+#  Project: Number Guessing Game
 
 Institute: THE SUFI INSTITUTE (LUARI SHARIF)
 
